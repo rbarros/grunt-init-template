@@ -9,7 +9,7 @@
 'use strict';
 
 // Basic template description.
-exports.description = 'Create a jQuery plugin, including QUnit unit tests.';
+exports.description = 'Create a template init, including QUnit unit tests.';
 
 // Template-specific notes to be displayed before question prompts.
 exports.notes = '_Project name_ should not contain "jquery" or "js" and ' +
@@ -20,9 +20,9 @@ exports.notes = '_Project name_ should not contain "jquery" or "js" and ' +
   '\n\n'+
   'For more information, please see the following documentation:' +
   '\n\n'+
-  'Naming Your Plugin      http://plugins.jquery.com/docs/names/\n' +
-  'Publishing Your Plugin  http://plugins.jquery.com/docs/publish/\n' +
-  'Package Manifest        http://plugins.jquery.com/docs/package-manifest/';
+  'Naming Your Plugin      http://public.ramon-barros.com/docs/names/\n' +
+  'Publishing Your Plugin  http://public.ramon-barros.com/docs/publish/\n' +
+  'Package Manifest        http://public.ramon-barros.com/docs/package-manifest/';
 
 // Template-specific notes to be displayed after question prompts.
 exports.after = 'You should now install project dependencies with _npm ' +
